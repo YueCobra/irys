@@ -1,0 +1,11 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# 环境文件
+venv/
+.env
+
+# IDE配置
+.idea/
+*.iml
