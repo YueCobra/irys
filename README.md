@@ -1,8 +1,8 @@
 # irys领水
 
 ##### 需要yescaptcha  注册地址： https://yescaptcha.com/i/4UcvE0
+![1750940800270](https://github.com/user-attachments/assets/9383c52b-a220-416c-9908-a2314cdb4485)
 
-##### ![image-20250626202721017](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250626202721017.png)
 
 1、克隆/下载仓库
 
