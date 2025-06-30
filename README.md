@@ -3,7 +3,11 @@
 ##### 需要yescaptcha  注册地址： https://yescaptcha.com/i/4UcvE0
 ![image](https://github.com/user-attachments/assets/033043af-4481-4d6a-aa34-1faf65844c90)
 
+懒人版本：[直接下载](https://github.com/YueCobra/irys/releases/tag/1.0)
 
+---------------------------------------------------------------------------------------------
+
+自己编译
 
 1、克隆/下载仓库
 
